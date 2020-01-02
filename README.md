@@ -2,11 +2,9 @@
 
 Continuous delivery workflow
 
-- I'm evolving.
-- Nice.
-- One more change here
-- I'm not alone anymore.
-- Me code is reviewed!
+- I'm another developer.
+- I changed the whole README
+- OMG!
 
 # Look and Say Sequence
 
