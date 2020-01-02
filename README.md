@@ -2,11 +2,8 @@
 
 Continuous delivery workflow
 
-- First commit
-- Second change
-- Third line
-- I'm alone in this project
-- I can do whatever I want.
 - I'm evolving.
 - Nice.
 - One more change here
+- I'm not alone anymore.
+- Me code is reviewed!
