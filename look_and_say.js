@@ -3,9 +3,8 @@
  * 1, 11, 21, 1211, 111221, 312211, 13112221, 1113213211, ...
  */
 
-function a(n) {
-  return '';
-}
+// solution 76 chars
+a=(n,p='1')=>n?a(n-1,p.match(/(.)\1*/g).reduce((c,i)=>c+i.length+i[0],'')):p
 
 // test
 console.log('test', a(7) === '1113213211');
