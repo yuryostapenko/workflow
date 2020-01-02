@@ -2,9 +2,8 @@
 
 Continuous delivery workflow
 
-- I'm another developer.
-- I changed the whole README
-- OMG!
+- This is learning repository
+- README can be ignored
 
 # Docker
 
