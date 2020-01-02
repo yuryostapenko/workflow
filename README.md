@@ -7,3 +7,4 @@ Continuous delivery workflow
 - Third line
 - I'm alone in this project
 - I can do whatever I want.
+- I'm evolving.
